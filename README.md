@@ -1,6 +1,6 @@
 # VulLLM
 
-This is the codebase for the paper "Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning".
+This is the codebase for the paper "Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning", a research outcome by the ARTS^3 research group from Huazhong University of Science and Technology.
 
 **Reproduction of Baseline Models**
 
