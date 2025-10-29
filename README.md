@@ -99,6 +99,18 @@ python attack_ptm_wir.py \
 ```
 The tuned model weights, performance evaluation results, and adversarial attack results are available in [Renodo](https://zenodo.org/records/10677069).
 
+
+## Citation
+```
+@inproceedings{du2024generalization,
+  title={Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning},
+  author={Du, Xiaohu and Wen, Ming and Zhu, Jiahao and Xie, Zifan and Ji, Bin and Liu, Huijun and Shi, Xuanhua and Jin, Hai},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  pages={10507--10521},
+  year={2024}
+}
+```
+
 ## Acknowledgement
 
 We are very grateful that the authors of CodeLlama, Llama-2, StarCoder make their code publicly available so that we can build our VulLLM on top of their code.
